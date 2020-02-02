@@ -16,7 +16,7 @@ Kami memodifikasi parameter ε dengan nilai magnitude, sehingga nilainya untuk s
 
 ## Implementasi Program
 ### Program Dynamic Epsilon DBSCAN
-Implementasi algoritma Dynamic DBSCAN pada program ini dilakukan dengan memodifikasi program DBSCAN biasa yang dibuat oleh Chris McCormic. Implementasinya dilakukan menggunakan bahasa pemrograman Python. Program dan modifikasi DE-DBSCAN adalah seperti berikut https://github.com/hisyamfahm/dedbscan/commit/5a08035c2d4ae7ab1b681aaaf26375f1cb1c1f34
+Implementasi algoritma Dynamic DBSCAN pada program ini dilakukan dengan memodifikasi program DBSCAN biasa yang dibuat oleh Chris McCormic. Implementasinya dilakukan menggunakan bahasa pemrograman Python. Program dan modifikasi DE-DBSCAN adalah seperti berikut dynamicDBSCAN.py
 
 ### Format Data Gempa
 Fitur yang digunakan adalah koordinat spasial, yaitu lintang (latitude) dan bujur (longitude), serta besar kekuatan gempa (magnitude). Setiap baris (record) pada data menunjukkan titik terjadinya getaran gempa.
